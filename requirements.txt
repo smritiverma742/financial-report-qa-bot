@@ -1,0 +1,9 @@
+streamlit
+litellm
+langchain
+langchain-community
+langchain-text-splitters
+chromadb
+pdfplumber
+sentence-transformers
+openai
